@@ -1,6 +1,4 @@
 first-week
 ==========
 
-test
-
-how to use github
+for test /how to use github
